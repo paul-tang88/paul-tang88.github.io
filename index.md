@@ -2,6 +2,9 @@
 layout: default
 ---
 这是我直接从https://github.com/pages-themes/cayman克隆过来的，虽然糙了点，但是能用
+[随笔](./2025年5月1日.html).
+2025年5月1日.md
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
