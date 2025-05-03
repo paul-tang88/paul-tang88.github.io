@@ -8,4 +8,4 @@ layout: default
 
 这是预留的超级链接。.
 
-[linux技术分类的主页](./linu/index.html).
+[linux技术分类的主页](./linux/index.html).
