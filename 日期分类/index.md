@@ -1,7 +1,7 @@
 ---
 title: 日期分类主页
 descrition: 按照日期分类
-layout: defalut
+layout: defaultdefaultdefault
 ---
 
 [2025年5月1日随笔](./2025年5月1日.html).
