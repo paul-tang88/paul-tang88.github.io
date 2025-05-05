@@ -12,5 +12,7 @@ html+css
 
 [first.md](./my_example/first.md)
 
+first.md文件自动转换为html文件了，只能直接修改后缀来访问
+
 [first.html](./my_example/first.html)
 
