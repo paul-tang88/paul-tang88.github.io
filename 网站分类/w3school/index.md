@@ -4,7 +4,7 @@ title: w3school学习
 description: 没有描述
 ---
 
-![w3school中文网站](https://www.w3school.com.cn/)
+[w3school中文网站](https://www.w3school.com.cn/)
 
 html+css
 
