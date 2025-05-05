@@ -10,5 +10,5 @@ html+css
 
 还要学什么，不懂
 
-![first.html](./my_example/first.html)
+[first.html](./my_example/first.html)
 
